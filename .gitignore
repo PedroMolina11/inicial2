@@ -2,3 +2,5 @@
 *.class
 #ignoramos los ficheros de copia de seguridad automática
 *~
+*swp
+doc/

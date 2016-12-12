@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 #ignoramos los ejecutables class
 *.class
 #ignoramos los ficheros de copia de seguridad automática
 *~
 *swp
 doc*
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 0c62affb39b1facb2b038192972fb6f1b684f5b5
